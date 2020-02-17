@@ -7,6 +7,10 @@ Welcome to Distributed-Clicker's documentation!
 ===============================================
 
 
+
+.. automodule:: app
+    :members:
+
 Models
 ^^^^^^
 
