@@ -8,7 +8,13 @@ Welcome to Distributed-Clicker's documentation!
 
 
 
-.. automodule:: app
+.. automodule:: app.Models.Questions
+    :members:
+
+.. automodule:: app.Models.Quiz
+    :members:
+
+.. automodule:: app.Models.Response
     :members:
 
 Models
