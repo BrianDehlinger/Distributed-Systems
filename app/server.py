@@ -22,7 +22,7 @@ def welcome():
 def activateQuestion():
     """Takes the POST request containing question data and marks that question as active if there is not an active
     question. Takes the GET request and returns the active question.
-     Subject to change:
+    Subject to change:
 
      1) activeQuestion may no longer be global
      2) This may require authentication
